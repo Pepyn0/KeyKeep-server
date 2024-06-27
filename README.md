@@ -22,6 +22,25 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
+
+## TODO
+- [x] Initialize project
+- [ ] Create README.md
+- [ ] Create UML Diagram(class diagram)
+- [ ] Create UML Diagram(sequence diagram)
+- [ ] Create UML Diagram(activity diagram)
+- [ ] Create UML Diagram(deployment diagram)
+- [ ] Create random password generator
+- [ ] Create password manager
+- [ ] Encrypt password before saving to database
+- [ ] Create user registration
+- [ ] Create user login
+- [ ] Create user authentication using JWT
+- [ ] Implement captcha for user login
+- [ ] Create export to excel with password
+
+
+
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
